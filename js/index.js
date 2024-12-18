@@ -1,1 +1,1 @@
-alert('grfgrjhgh');
+import "./app.js";
